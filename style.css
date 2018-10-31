@@ -1,0 +1,68 @@
+body {
+  background-color: lightblue;
+}
+
+.heading {
+  font-weight: bold;
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1458682625221-3a45f8a844c7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f53bc37ff31a9c27b92bb869ccc05a5e&auto=format&fit=crop&w=1934&q=80");
+  text-transform: uppercase;  
+}
+
+.heading h1 {
+  color: khaki;
+  padding: 38px;
+    font-size: 100px;
+  font-family: Helvetica; 
+}
+
+.brushes h2 {
+  font-family: Helvetica;
+  font-size: 32px; 
+  font-weight: bold; 
+  color: white;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+.brushesimage {
+  width: 15%;
+  
+}
+
+span {
+  color: blue;
+  font-weight: bold;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.frames h2 {
+  font-family: Helvetica;
+  font-size: 32px; 
+  font-weight: bold; 
+  color: white;
+}
+
+.framesimage {
+  width: 15%;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+.paint h2 {
+  font-family: Helvetica;
+  font-size: 32px; 
+  font-weight: bold; 
+  color: white;
+}
+
+.paintimage {
+  width: 20%;
+}
